@@ -24,4 +24,4 @@ Useful links for the bonus part:
 - [Direct Client-to-Client](https://en.wikipedia.org/wiki/Direct_Client-to-Client)
 - [DCC in IRSSI](https://irssi.org/documentation/help/dcc/)
 
-Usage : make run to start server and IRSSI to connect to the server as a client ([download ISSRI](https://irssi.org/download/))
+Usage : make run to start server and IRSSI to connect to the server as a client ([download ISSRI](https://irssi.org/download/)).
