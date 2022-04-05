@@ -19,7 +19,7 @@ Useful links for the mandatory part:
 - [TCP server with kqueue](https://dev.to/frevib/a-tcp-server-with-kqueue-527)
 
 
-Useful links for the mandatory part:
+Useful links for the bonus part:
 - [Bot for IRC](https://codes-sources.commentcamarche.net/source/25988-bot-pour-l-irc)
 - [Direct Client-to-Client](https://en.wikipedia.org/wiki/Direct_Client-to-Client)
 - [DCC in IRSSI](https://irssi.org/documentation/help/dcc/)
