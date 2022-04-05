@@ -1,0 +1,4 @@
+WATCH	includes
+WATCH	includes/cmds
+WATCH	srcs
+WATCH	srcs/cmds
